@@ -1,0 +1,10 @@
+var n = 128;
+n = n.toString();
+console.log(n);
+n = n.replace('8','9');
+console.log(n);
+n = n+1;
+console.log(n);
+n = parseInt(n);
+n = n+1;
+console.log(n);
